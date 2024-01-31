@@ -1,5 +1,5 @@
-<h2>Hi there 👋</h2> <p align='right'>    
-<h3>Junior Frontend Developer</h3> 
+<h3>Hi there 👋</h3> <p align='right'>    
+<h4>Junior Frontend Developer</h4> 
 
 - Savvy with and currently diving into technologies:<br><br>
   🌱 JS, TS, React, HTML, CSS, Sass, Node, MongoDB
